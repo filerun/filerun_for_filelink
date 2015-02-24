@@ -1,4 +1,4 @@
-FileRu for Filelink
+# FileRun for Filelink
 
 This is an add-on to be used with Mozilla Thunderbird e-mail program.
 
